@@ -1,6 +1,6 @@
 
 const path = require('path');
-const mqtt = require('mqtt');
+const mqtt = require('async-mqtt');
 
 
 async function send(data, connector, options) {

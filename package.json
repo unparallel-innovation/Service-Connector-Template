@@ -11,7 +11,7 @@
         "template"
     ],
     "dependencies": {
-        "service-connector": "^1.0.2",
-        "mqtt": "^4.2.8"
+        "async-mqtt": "^2.6.1",
+        "service-connector": "^1.0.2"
     }
 }
