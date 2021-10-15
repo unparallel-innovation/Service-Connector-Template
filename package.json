@@ -2,7 +2,7 @@
     "name": "service-connector-template",
     "version": "1.0.0",
     "description": "Template for using the service-connector package",
-    "license": "ISC",
+    "license": "MIT",
     "repository": "unparallel-innovation/Service-Connector-Template",
     "main": "start.js",
     "keywords": [
@@ -11,7 +11,7 @@
         "template"
     ],
     "dependencies": {
-        "service-connector": "^1.0.1",
+        "service-connector": "^1.0.2",
         "mqtt": "^4.2.8"
     }
 }
